@@ -1,5 +1,5 @@
 # Inverse-Kinematics-with-Jacobian-Transpose-method
-### **Implement the Inverse Kinematics (IK) on a linkage of four cuboids based on Jacobian Transpose method**
+### **Implement the Inverse Kinematics (IK) on a linkage of three joints based on Jacobian Transpose method**
 
 
 ### Functions
