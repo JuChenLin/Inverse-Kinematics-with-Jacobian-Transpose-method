@@ -19,5 +19,6 @@ OpenGL (Open Graphics Library)
 
 
 ### Results
+![image]( https://github.com/JuChenLin/Inverse-Kinematics-with-Jacobian-Transpose-method/blob/master/Results/result.mp4 )
 
 
